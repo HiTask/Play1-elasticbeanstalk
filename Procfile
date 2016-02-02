@@ -1,0 +1,1 @@
+web: ./ebs-run.sh
